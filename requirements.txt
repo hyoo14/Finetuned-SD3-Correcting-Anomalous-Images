@@ -1,5 +1,6 @@
 transformers
 accelerate
+git+https://github.com/huggingface/diffusers
 wandb
 bitsandbytes
 peft
