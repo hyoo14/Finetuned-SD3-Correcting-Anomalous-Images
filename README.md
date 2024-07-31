@@ -1,5 +1,20 @@
 # Finetuned-SD3-Correcting-Anomalous-Images
 
+### Model
+
+You can find the trained model on Hugging Face at the following link:
+
+[Trained SD3 Model](https://huggingface.co/hyepark/trained-sd3)
+
+
+### Colab Notebook
+
+You can find the Colab notebook at the following link:
+
+[Colab Notebook](https://colab.research.google.com/drive/1asdfb3k6V9e9-asdfasdfL?usp=sharing)
+
+
+
 ## Usage
 
 ### Training
