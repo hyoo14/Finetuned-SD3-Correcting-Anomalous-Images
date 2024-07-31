@@ -4,14 +4,14 @@
 
 You can find the trained model on Hugging Face at the following link:
 
-[Trained SD3 Model](https://huggingface.co/hyepark/trained-sd3)
+[Trained SD3 Model](https://huggingface.co/hyoo14/trained-sd3-lora-miniature)
 
 
 ### Colab Notebook
 
 You can find the Colab notebook at the following link:
 
-[Colab Notebook](https://colab.research.google.com/drive/1asdfb3k6V9e9-asdfasdfL?usp=sharing)
+[Colab Notebook](https://colab.research.google.com/drive/1RnGaE_b3k6V9e9-kO4eO2sLr9Yg2g6ZL?usp=sharing)
 
 
 
