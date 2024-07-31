@@ -1,5 +1,11 @@
 # Finetuned-SD3-Correcting-Anomalous-Images
 
+## Introduction
+
+The Finetuned-SD3-Correcting-Anomalous-Images project aims to address the issue of anomalous image generation in text-to-image models. By fine-tuning the Stable Diffusion 3 model using the DreamBooth technique, this project seeks to improve the quality of images generated from specific prompts like "lying on the grass/street". The fine-tuned model shows enhanced performance in visual assessments and key metrics such as SSIM, PSNR, and FID, while also receiving positive user feedback. This work aims to increase the practicality and reliability of text-to-image models in various applications.
+
+
+
 ### Model
 
 You can find the trained model on Hugging Face at the following link:
