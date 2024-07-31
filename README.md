@@ -49,7 +49,7 @@
 8. Start the training process:
 
     ```sh
-    !accelerate launch train.py \
+    accelerate launch train.py \
       --pretrained_model_name_or_path="stabilityai/stable-diffusion-3-medium-diffusers"  \
       --instance_data_dir="../data" \
       --data_df_path="sample_embeddings.parquet" \
