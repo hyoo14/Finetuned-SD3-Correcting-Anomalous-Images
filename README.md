@@ -96,3 +96,19 @@ To run the inference, use the following command:
 ```sh
 python ../inference/inference.py
 ```
+
+
+
+
+
+<br/>
+<br/>
+
+### Foundation Model:     
+
+This project utilized the [stabilityai](https://huggingface.co/stabilityai/) implementation of **stable-diffusion-3-medium-diffusers** for this project.  
+
+
+### Foundation Code:      
+
+This project utilized the [Dreambooth](https://dreambooth.github.io/) implementation.  
